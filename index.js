@@ -1,0 +1,13 @@
+const divide = function (a,b) {
+    return a/b
+}
+
+divide(2000,1000)
+
+const square = (x) => x * x;
+
+square(2)
+
+const add = (a,b) => a + b;
+
+add(3,4)
